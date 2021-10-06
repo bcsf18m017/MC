@@ -1,0 +1,14 @@
+C:\Users\K9181\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.exe
+C:\Users\K9181\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.deps.json
+C:\Users\K9181\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.runtimeconfig.json
+C:\Users\K9181\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.runtimeconfig.dev.json
+C:\Users\K9181\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.dll
+C:\Users\K9181\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.pdb
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.csproj.AssemblyReference.cache
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.AssemblyInfoInputs.cache
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.AssemblyInfo.cs
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.csproj.CoreCompileInputs.cache
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.dll
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.pdb
+C:\Users\K9181\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.genruntimeconfig.cache
